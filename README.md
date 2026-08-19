@@ -82,5 +82,4 @@ The following analyses were performed:
 - `titanic_cleaned.csv` — cleaned dataset
 
 ## Author
-
-Your Name
+M V VISWA SIMHA
